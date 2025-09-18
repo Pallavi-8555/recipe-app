@@ -99,6 +99,7 @@ code {
  }
 .mealInfo .info{
   margin-top: -112px;
+  width: 50%;
 }
 .msg{
   text-align: center;
